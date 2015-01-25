@@ -1,6 +1,6 @@
 # Tidying_Human_Act_Recog_Data
 ## Code Explanation
-# The code run_analysis.R creates the tidy data set. The steps followed in it are listed below:
+### The code run_analysis.R creates the tidy data set. The steps followed in it are listed below:
 * The packages 'plyr' and 'reshape' are loaded.
 * All the required files are read into the respective tables. The basic idea is that we need the feature values (in x_test and x_train files), the corresponding 
   activities (in y_test and y_train files) and the subjects (subject_test and subject_train files) to capture all the information in one file. The activity labels 
