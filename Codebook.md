@@ -1,6 +1,5 @@
 # Codebook 
-## The following Codebook contains some brief info of all the variables used in the tidy data set. No description has been provided as the variable names chosen as very
-  descriptive. The corresponding field length is provided next to the variable name. In case any categorical values are used or some descriptions needed, they are mentioned below the variable with a tab separation from the left margin. 
+## The following Codebook contains some brief info of all the variables used in the tidy data set. No description has been provided as the variable names chosen as very descriptive. The corresponding field length is provided next to the variable name. In case any categorical values are used or some descriptions needed, they are mentioned below the variable with a tab separation from the left margin. Please do open the file in notepad to see the correct formatting.
 
 Subject		2
 	1-30	
